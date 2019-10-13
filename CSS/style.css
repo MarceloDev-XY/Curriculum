@@ -1,0 +1,12 @@
+body{
+    background-color: #dedede;
+    text-align: left;    
+}
+
+h1,h3,h5{
+    text-align: center;
+}
+
+ul{
+    list-style-type: circle;
+}
